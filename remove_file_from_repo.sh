@@ -1,3 +1,4 @@
+#test
 #set path to working dir
 workingdir=$HOME/dotfiles.git
 filetoremove='megarc'
